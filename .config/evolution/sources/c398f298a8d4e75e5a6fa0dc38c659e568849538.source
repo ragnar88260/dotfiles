@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=christian.gobert88260@gmail.com
+Enabled=true
+Parent=fbeb22d703fc853ade1eb7c070f42f6cbaaca781
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=812c3229dbf85e8b42e7020a2050a32d380258b7
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=christian.gobert88260@gmail.com
+Aliases=
+Name=Christian Gobert
+Organization=
+ReplyTo=
+SignatureUid=none
